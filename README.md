@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Hans from Philadelphia, and I develop games, useful tools, and mobile apps. I'm working on projects using Java, Swift, Python, C++, R, and even Ocaml. Currently learning SQL and React Native, I hope to become a real data analyst and software engineer one day. You can check out my content at https://www.youtube.com/@hanszhu550/videos.
+This is Hans from Philadelphia. I develop games, useful tools, and mobile apps. I perform data analysis on social-relevant datasets through pandas and PyTorch. I'm working on projects using Java, Swift, Python, C++, R, and even Ocaml. Currently learning SQL and React Native, I hope to become a real data analyst and software engineer one day. You can check out my content at https://www.youtube.com/@hanszhu550/videos.
